@@ -14,7 +14,6 @@ CLASS_NAMES = ['Corn-Common_rust', 'Potato-Early_blight', 'Tomato-Bacterial_spot
 #Setting Title of App
 st.header('Project Data Science in Udemy')
 st.title("Plant Disease Detection")
-
 st.markdown("Upload an image of the plant leaf")
 
 #Uploading the dog image
